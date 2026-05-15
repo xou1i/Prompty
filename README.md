@@ -57,7 +57,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`.
+4. Open your browser and navigate to `https://prompty-sable.vercel.app/`.
 
 ---
 
